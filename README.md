@@ -17,5 +17,5 @@ Prosty oraz standardowy kalkulator z graficznym interfejsem użytkownika.
 
 ## Wygląd aplikacji:
 <p align="center">
-    <img src="img/calculator.png">
+    <img src="calculator.png">
 </p>
