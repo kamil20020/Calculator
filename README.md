@@ -1,4 +1,4 @@
-# Kalkulator okienkowy (08.2021)
+# Kalkulator okienkowy (08.2020)
 Prosty oraz standardowy kalkulator z graficznym interfejsem użytkownika.
 
 ## Wymagania funkcjonalne:
