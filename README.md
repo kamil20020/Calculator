@@ -1,5 +1,5 @@
 # Kalkulator okienkowy (08.2020)
-Prosty oraz standardowy kalkulator z graficznym interfejsem użytkownika.
+Prosty oraz standardowy kalkulator z graficznym interfejsem użytkownika. 
 
 ## Wymagania funkcjonalne:
 * Dodawanie,
